@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of webbinaro/gpx-preview.** Not for installation: use [Packagist](https://packagist.org/packages/webbinaro/gpx-preview) or the [upstream repository](https://github.com/eddiewebb/flarum-gpx-preview).
 
-**0** versions archived · Latest: [`2.0.5`](https://github.com/flarchive/webbinaro-gpx-preview/tree/archive/v2.0.5) · License: `MIT` · Flarum: `^1.8.0`
+**16** versions archived · Latest: [`2.0.5`](https://github.com/flarchive/webbinaro-gpx-preview/tree/archive/v2.0.5) · License: `MIT` · Flarum: `^1.8.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2021-09-30 | `^1.0.0` | [Browse](https://github.com/flarchive/webbinaro-gpx-preview/tree/archive/v1.0.0) |
+| `2.0.0` | 2024-10-03 | `^1.8.0` | [Browse](https://github.com/flarchive/webbinaro-gpx-preview/tree/archive/v2.0.0) |
+| `2.0.1` | 2024-10-03 | `^1.8.0` | [Browse](https://github.com/flarchive/webbinaro-gpx-preview/tree/archive/v2.0.1) |
+| `2.0.2` | 2024-10-03 | `^1.8.0` | [Browse](https://github.com/flarchive/webbinaro-gpx-preview/tree/archive/v2.0.2) |
+| `2.0.3` | 2024-10-03 | `^1.8.0` | [Browse](https://github.com/flarchive/webbinaro-gpx-preview/tree/archive/v2.0.3) |
+| `2.0.4` | 2024-10-15 | `^1.8.0` | [Browse](https://github.com/flarchive/webbinaro-gpx-preview/tree/archive/v2.0.4) |
+| `2.0.5` | 2024-10-15 | `^1.8.0` | [Browse](https://github.com/flarchive/webbinaro-gpx-preview/tree/archive/v2.0.5) |
+| `v0.1.0` | 2020-10-13 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/webbinaro-gpx-preview/tree/archive/v0.1.0) |
+| `v0.1.1` | 2020-10-13 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/webbinaro-gpx-preview/tree/archive/v0.1.1) |
+| `v0.1.2` | 2020-10-13 | `^0.1.0-beta.13` | [Browse](https://github.com/flarchive/webbinaro-gpx-preview/tree/archive/v0.1.2) |
+
+[View all 16 versions](https://github.com/flarchive/webbinaro-gpx-preview/tags)
 
 Catalog entry: [packages/webbinaro-gpx-preview.json](https://github.com/flarchive/archive-index/blob/main/packages/webbinaro-gpx-preview.json)
 
